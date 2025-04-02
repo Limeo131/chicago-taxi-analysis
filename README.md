@@ -31,7 +31,7 @@ This project analyzes taxi and ride-share trends in Chicago using public data fr
 
 ### 3. Distribution of Payment Types
 > Query: [`sql/payment.sql`](sql/payment.sql)
-<img src="visualizations/payment.png" width="300"/>
+<img src="visualizations/payment.png" width="400"/>
 
 ---
 
