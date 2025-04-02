@@ -36,7 +36,7 @@ This project analyzes taxi and ride-share trends in Chicago using public data fr
 
 ### 4. Top 10 Pickup Areas
 > Query: [`sql/pickup.sql`](sql/pickup.sql)
-<img src="visualizations/pickup.png" width="600"/>
+<img src="visualizations/area.png" width="600"/>
 
 ---
 
