@@ -10,7 +10,7 @@ This project analyzes taxi and ride-share trends in Chicago using public data fr
 
 - **Data Source**: `bigquery-public-data.chicago_taxi_trips.taxi_trips`
 - **Tools Used**: Google BigQuery (SQL), Tableau (Visualization)
-- **Time Period Analyzed**: Jan 2019 – Dec 2019
+- **Time Period Analyzed**: Jan 2023 – Dec 2023
 
 ---
 
