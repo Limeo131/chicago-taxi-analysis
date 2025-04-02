@@ -17,26 +17,26 @@ This project analyzes taxi and ride-share trends in Chicago using public data fr
 ## 📊 Key Analyses & Charts
 
 ### 1. Monthly Ride Volume Trend
-> Query: [`sql/monthly_trips.sql`](sql/monthly_trips.sql)
-<img src="visualizations/monthly_trips_linechart.png" width="600"/>
+> Query: [`sql/monthly_trips.sql`](sql/month.sql)
+<img src="visualizations/month.png" width="600"/>
 
 ---
 
 ### 2. Top Companies by Ride Count
-> Query: [`sql/top_companies.sql`](sql/top_companies.sql)
-<img src="visualizations/top_companies_bar.png" width="600"/>
+> Query: [`sql/top_companies.sql`](sql/company.sql)
+<img src="visualizations/company.png" width="600"/>
 
 ---
 
 ### 3. Distribution of Payment Types
-> Query: [`sql/payment_types.sql`](sql/payment_types.sql)
-<img src="visualizations/payment_types_pie.png" width="400"/>
+> Query: [`sql/payment_types.sql`](sql/payment.sql)
+<img src="visualizations/payment.png" width="400"/>
 
 ---
 
 ### 4. Top 10 Pickup Areas
-> Query: [`sql/top_pickup_areas.sql`](sql/top_pickup_areas.sql)
-<img src="visualizations/top_pickup_areas_bar.png" width="600"/>
+> Query: [`sql/top_pickup_areas.sql`](sql/pickup.sql)
+<img src="visualizations/pickup.png" width="600"/>
 
 ---
 
