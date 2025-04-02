@@ -15,6 +15,7 @@ This project analyzes taxi and ride-share trends in Chicago using public data fr
 ---
 
 ## 📊 Key Analyses & Charts
+<img src="visualizations/all.png" width="600"/>
 
 ### 1. Monthly Ride Volume Trend
 > Query: [`sql/monthly.sql`](sql/month.sql)
